@@ -11,7 +11,7 @@ hello.greet();
 
 console.log('------------')
 var greeting : Greeter.IMessage ={ 
-    Message: "Ken sent me twice!!!!",
+    Message: "Ken sent me twice!",
     Priority: 1
 };
 
